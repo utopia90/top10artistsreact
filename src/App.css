@@ -1,0 +1,31 @@
+.hide {
+  display: none;
+}
+
+*{
+ justify-content: center;
+ text-align: center;
+ align-items: center;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ background-color: bisque;
+}
+
+#search-bar{
+  width:250px;
+  height: 25px;
+  border-radius: 8px;
+  background-color: cornflowerblue;
+
+}
+
+  ol li{
+    list-style-type: none;
+  }
+#restart {
+  width: 95px;
+  align-items: center;
+  margin-left: 40px;
+  border-radius: 8px;
+  color: black;
+  background-color: cornflowerblue;
+}
